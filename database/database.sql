@@ -1,0 +1,1 @@
+CREATE SCHEMA `petconnection` DEFAULT CHARACTER SET utf8mb4 ;
